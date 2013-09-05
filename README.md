@@ -9,7 +9,7 @@ the caculator have some simple functions;
 I gave a example
 
 
-if you want to caculate the "7+5" express,Then you should input "7+5" and type endter.
+if you want to caculate the "7+5" express,Then you should input "7+5" and type Enter.
 
 following are the console's out put:
 
