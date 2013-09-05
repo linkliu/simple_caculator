@@ -18,10 +18,15 @@ following are the console's out put:
 please input a express:
 
 5+7
+
 5+7=12
+
 please input a express:
+
 1234/34
+
 1234/34=36.29411760588
+
 
 
 this simple caculator can operate arithmetic with tow operand.but i will going to maintain it.
