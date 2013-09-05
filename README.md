@@ -16,6 +16,7 @@ following are the console's out put:
 >
 
 please input a express:
+
 5+7
 5+7=12
 please input a express:
